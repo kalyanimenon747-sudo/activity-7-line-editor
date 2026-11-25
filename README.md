@@ -14,3 +14,4 @@ Dynamic array of heap-allocated strings (`char **lines`, `int count`, `int capac
 ```bash
 gcc -Wall -Wextra -std=c11 editor.c -o editor
 ./editor
+```
